@@ -1,0 +1,34 @@
+.call-ctrl-bar
+{
+	margin-top: 30px;
+	text-align: center;
+}
+
+.call-receive
+{
+	color: green;
+}
+
+.call-end
+{
+	color: red;
+}
+
+.call-ctrl:hover
+{
+	background-color: blue;
+}
+
+.call-ctrl:active
+{
+	background-color: yellow;
+}
+
+.circle 
+{
+    background-color: gray;
+    height: 60px;
+    -moz-border-radius:75px;
+    -webkit-border-radius: 75px;
+    width: 60px;
+}

@@ -1,0 +1,9 @@
+.remote-video-container > video {
+	width: 854px;
+	background-color: black;
+}
+
+.remote-video-container
+{
+	position: relative;
+}

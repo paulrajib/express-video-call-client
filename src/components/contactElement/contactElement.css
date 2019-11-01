@@ -1,0 +1,54 @@
+li.contact-element.contact-online:hover
+{
+	background-color: blue;
+}
+
+li.contact-element.contact-online:active
+{
+	background-color: gray;
+}
+
+li.contact-element.contact-offline:hover
+{
+	background-color: blue;
+}
+
+li.contact-element.contact-offline:active
+{
+	background-color: gray;
+}
+
+li.contact-element
+{
+	margin-top: 15px;
+	margin-top: 15px;
+	border: 1px solid blue;
+}
+
+li.contact-element.contact-online
+{
+	background-color: green;
+}
+
+li.contact-element.contact-offline
+{
+	background-color: yellow;
+}
+
+.nav-sidebar > li.contact-element > span {
+    padding-right: 20px;
+    padding-left: 20px;
+    position: relative;
+    display: block;
+    padding: 10px 15px;
+}
+
+span.call-btn:hover
+{
+	color: white;
+}
+
+span.call-btn:active
+{
+	color: yellow;
+}

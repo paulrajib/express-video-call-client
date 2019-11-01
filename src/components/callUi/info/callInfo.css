@@ -1,0 +1,16 @@
+.call-info
+{
+	background-color: yellow;
+	position: absolute;
+	text-align: center;
+	width: 854px;
+	height: 432px;
+	top: 20px;
+}
+
+.call-info-inner
+{
+	position: absolute;
+	top: 130px;
+	left: 300px;
+}

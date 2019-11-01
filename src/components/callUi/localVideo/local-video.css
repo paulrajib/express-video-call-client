@@ -1,0 +1,16 @@
+.local-video-container
+{
+	width: 250px;
+	height: 126px;
+	display: inline-block;
+	position: absolute;
+	right: 66px;
+	top: 321px;
+}
+
+.local-video-container > video
+{
+	width: 250px;
+	background-color: black;
+	border: 1px solid yellow;
+}
